@@ -5,3 +5,5 @@
 
 Customize Ubuntu22.04 cloud image for CommandClick
 
+-> [Setup script](https://github.com/puutaro/CommandClick/blob/master/app/src/main/assets/ubuntu_setup/support/startup.sh)
+
