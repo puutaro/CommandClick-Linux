@@ -17,5 +17,5 @@ Customize Ubuntu22.04 cloud image for CommandClick
 <img src="https://github.com/user-attachments/assets/9851194f-02ae-4044-a30e-a1e437953b31" width="800"> 
 
 
-<img src="https://github.com/user-attachments/assets/eceb3a64-888f-4426-a7f5-ec48202ca18f" width="800"> 
+<img src="https://github.com/user-attachments/assets/62902a46-994c-4144-91ef-8ad5f2ffc97c" width="800"> 
 
